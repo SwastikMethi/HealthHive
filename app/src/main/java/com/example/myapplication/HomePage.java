@@ -41,8 +41,7 @@ public class HomePage extends AppCompatActivity {
 
         ImageButton diagnozybtn = findViewById(R.id.identifier);
         diagnozybtn.setOnClickListener(view -> {
-            Intent intent = new Intent(this,Diagnosticpg.class);
-            startActivity(intent);
+            Toast.makeText(this, "In-Progress", Toast.LENGTH_SHORT).show();
         });
     }
 
