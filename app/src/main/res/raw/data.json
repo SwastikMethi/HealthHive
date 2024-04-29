@@ -1,0 +1,228 @@
+{
+  "bmiPlans": [
+    {
+      "bmiRange": {
+        "min": 0,
+        "max": 15.9
+      },
+      "dietPlan": {
+        "overview": "You are severely underweight. You should aim to increase your calorie intake and eat a balanced diet with plenty of protein, healthy fats, and whole grains.",
+        "foodSuggestions": [
+          {
+            "foodName": "Nuts",
+            "servingSize": "1 ounce (28 grams)",
+            "notes": "Nuts are a good source of healthy fats and protein."
+          },
+          {
+            "foodName": "Seeds",
+            "servingSize": "1 ounce (28 grams)",
+            "notes": "Seeds are a good source of healthy fats, protein, and fiber."
+          },
+          {
+            "foodName": "Avocado",
+            "servingSize": "1/2 avocado",
+            "notes": "Avocado is a good source of healthy fats and fiber."
+          },
+          {
+            "foodName": "Quinoa",
+            "servingSize": "1/2 cup cooked",
+            "notes": "Quinoa is a good source of protein and fiber."
+          },
+          {
+            "foodName": "Lean meats",
+            "servingSize": "3 ounces cooked",
+            "notes": "Lean meats are a good source of protein."
+          }
+        ],
+        "foodAvoidance": [
+          {
+            "foodName": "Processed foods",
+            "notes": "Avoid processed foods that are high in unhealthy fats, added sugars, and refined carbohydrates."
+          },
+          {
+            "foodName": "Fast food",
+            "notes": "Avoid fast food that is high in unhealthy fats, added sugars, and sodium."
+          },
+          {
+            "foodName": "Sugary drinks",
+            "notes": "Avoid sugary drinks that are high in added sugars and calories."
+          },
+          {
+            "foodName": "Alcohol",
+            "notes": "Limit your alcohol intake."
+          }
+        ]
+      }
+    },
+    {
+      "bmiRange": {
+        "min": 16,
+        "max": 18.4
+      },
+      "dietPlan": {
+        "overview": "You are underweight. You should aim to increase your calorie intake and eat a balanced diet with plenty of protein, healthy fats, and whole grains.",
+        "foodSuggestions": [
+          {
+            "foodName": "Nuts",
+            "servingSize": "1 ounce (28 grams)",
+            "notes": "Nuts are a good source of healthy fats and protein."
+          },
+          {
+            "foodName": "Seeds",
+            "servingSize": "1 ounce (28 grams)",
+            "notes": "Seeds are a good source of healthy fats, protein, and fiber."
+          },
+          {
+            "foodName": "Avocado",
+            "servingSize": "1/2 avocado",
+            "notes": "Avocado is a good source of healthy fats and fiber."
+          },
+          {
+            "foodName": "Quinoa",
+            "servingSize": "1/2 cup cooked",
+            "notes": "Quinoa is a good source of protein and fiber."
+          },
+          {
+            "foodName": "Lean meats",
+            "servingSize": "3 ounces cooked",
+            "notes": "Lean meats are a good source of protein."
+          }
+        ],
+        "foodAvoidance": [
+          {
+            "foodName": "Processed foods",
+            "notes": "Avoid"
+          },
+          {
+            "foodName": "Fast food",
+            "notes": "Avoid fast food that is high in unhealthy fats, added sugars, and sodium."
+          },
+          {
+            "foodName": "Sugary drinks",
+            "notes": "Avoid sugary drinks that are high in added sugars and calories."
+          },
+          {
+            "foodName": "Alcohol",
+            "notes": "Limit your alcohol intake."
+          }
+        ]
+      }
+    },
+    {
+      "bmiRange": {
+        "min": 18.5,
+        "max": 24.9
+      },
+      "dietPlan": {
+        "overview": "You are in a healthy weight range. You should aim to maintain a balanced diet with plenty of fruits, vegetables, whole grains, lean proteins, and healthy fats.",
+        "foodSuggestions": [
+          {
+            "foodName": "Fruits",
+            "servingSize": "1 cup",
+            "notes": "Fruits are a good source of vitamins, minerals, and fiber."
+          },
+          {
+            "foodName": "Vegetables",
+            "servingSize": "1 cup",
+            "notes": "Vegetables are a good source of vitamins, minerals, and fiber."
+          },
+          {
+            "foodName": "Whole grains",
+            "servingSize": "1/2 cup cooked",
+            "notes": "Whole grains are a good source of fiber, vitamins, and minerals."
+          },
+          {
+            "foodName": "Lean proteins",
+            "servingSize": "3 ounces cooked",
+            "notes": "Lean proteins are a good source of protein and nutrients."
+          },
+          {
+            "foodName": "Healthy fats",
+            "servingSize": "1 tablespoon",
+            "notes": "Healthy fats are important for brain health and can be found in foods like olive oil, nuts, and avocado."
+          }
+        ],
+        "foodAvoidance": [
+          {
+            "foodName": "Processed foods",
+            "notes": "Limit processed foods that are high in unhealthy fats, added sugars, and sodium."
+          },
+          {
+            "foodName": "Fast food",
+            "notes": "Limit fast food that is high in unhealthy fats, added sugars, and sodium."
+          },
+          {
+            "foodName": "Sugary drinks",
+            "notes": "Limit sugary drinks that are high in added sugars and calories."
+          },
+          {
+            "foodName": "Alcohol",
+            "notes": "Limit your alcohol intake."
+          }
+        ]
+      }
+    },
+    {
+      "bmiRange": {
+        "min": 25,
+        "max": 29.9
+      },
+      "dietPlan": {
+        "overview": "You are overweight. You should aim to reduce your calorie intake and eat a balanced diet with plenty of fruits, vegetables, whole grains, lean proteins, and healthy fats.",
+        "foodSuggestions": [
+          {
+            "foodName": "Fruits",
+            "servingSize": "1 cup",
+            "notes": "Fruits are a good source of vitamins, minerals, and fiber."
+          },
+          {
+            "foodName": "Vegetables",
+            "servingSize": "1 cup",
+            "notes": "Vegetables are a good source of vitamins, minerals, and fiber."
+          },
+          {
+            "foodName": "Whole grains",
+            "servingSize": "1/2 cup cooked",
+            "notes": "Whole grains are a good source of fiber, vitamins, and minerals."
+          },
+          {
+            "foodName": "Lean proteins",
+            "servingSize": "3 ounces cooked",
+            "notes": "Lean proteins are a good source of protein and nutrients."
+          },
+          {
+            "foodName": "Healthy fats",
+            "servingSize": "1 tablespoon",
+            "notes": "Healthy fats are important for brain health and can be found in foods like olive oil, nuts, and avocado."
+          }
+        ],
+        "foodAvoidance": [
+          {
+            "foodName": "Processed foods",
+            "notes": "Avoid processed foods that are high in unhealthy fats, added sugars, and sodium."
+          },
+          {
+            "foodName": "Fast food",
+            "notes": "Avoid fast food that is high in unhealthy fats, added sugars, and sodium."
+          },
+          {
+            "foodName": "Sugary drinks",
+            "notes": "Avoid sugary drinks that are high in added sugars and calories."
+          },
+          {
+            "foodName": "Alcohol",
+            "notes": "Limit your alcohol intake."
+          },
+          {
+            "foodName": "Red meat",
+            "notes": "Limit your intake of red meat."
+          },
+          {
+            "foodName": "Highly processed foods",
+            "notes": "Avoid highly processed foods like chips, crackers, and cookies."
+          }
+        ]
+      }
+    }
+  ]
+}
